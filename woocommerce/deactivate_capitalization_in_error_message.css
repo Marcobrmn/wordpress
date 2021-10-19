@@ -1,0 +1,5 @@
+/* Deactivate capitalization in woocommerce error messages
+*/
+.eael-woo-checkout .woocommerce .woocommerce-error, .eael-woo-checkout .woocommerce .woocommerce-info, .eael-woo-checkout .woocommerce .woocommerce-message{
+		text-transform: inherit;
+}
